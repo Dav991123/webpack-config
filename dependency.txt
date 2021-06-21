@@ -3,3 +3,5 @@ Webpack
 1 --> install node js
 2 --> npm init
 3 --> install Webpack [npm install webpack webpack-cli --save-dev]
+4 --> config webpack [context, mode, entry, output]
+5 --> config package.json "start": "webpack"
