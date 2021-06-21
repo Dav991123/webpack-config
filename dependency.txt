@@ -1,7 +1,17 @@
 Webpack 
 
+//branch 1
 1 --> install node js
 2 --> npm init
 3 --> install Webpack [npm install webpack webpack-cli --save-dev]
 4 --> config webpack [context, mode, entry, output]
 5 --> config package.json "start": "webpack"
+
+//branch 2
+
+1 --> filename add hash
+2 --> install [npm install --save-dev clean-webpack-plugin]
+3 --> install [npm install --save-dev html-webpack-plugin]
+4 --> install [npm install --save-dev mini-css-extract-plugin]
+
+
