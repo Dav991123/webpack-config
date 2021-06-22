@@ -20,3 +20,10 @@ Webpack
 2 --> install [npm install --save-dev css-loader]
 3 --> install [npm install --save-dev babel-loader @babel/core]
 
+//branch 4
+
+1 -->  install [npm install -D cross-env]
+2 --> "start": "cross-env NODE_ENV=development webpack",
+3 --> production hash filename
+4 -->
+
